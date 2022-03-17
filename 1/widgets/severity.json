@@ -1,0 +1,151 @@
+[ {
+  "uid" : "dde3de82809c2cf0",
+  "name" : "Empty fields validation",
+  "time" : {
+    "start" : 1647514419406,
+    "stop" : 1647514420122,
+    "duration" : 716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5161a92e70920570",
+  "name" : "Wrong credentials validation",
+  "time" : {
+    "start" : 1647514412292,
+    "stop" : 1647514412937,
+    "duration" : 645
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe179084b473930",
+  "name" : "Logout",
+  "time" : {
+    "start" : 1647514407975,
+    "stop" : 1647514408321,
+    "duration" : 346
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5192e55cbc696685",
+  "name" : "Update existing pet",
+  "time" : {
+    "start" : 1647514403835,
+    "stop" : 1647514403885,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdf1b377bd21a396",
+  "name" : "Valid login",
+  "time" : {
+    "start" : 1647514409572,
+    "stop" : 1647514411651,
+    "duration" : 2079
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42d9ff245b50476f",
+  "name" : "Logout",
+  "time" : {
+    "start" : 1647514420806,
+    "stop" : 1647514421476,
+    "duration" : 670
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8be6051788f0a7b",
+  "name" : "Wrong credentials validation",
+  "time" : {
+    "start" : 1647514420121,
+    "stop" : 1647514420806,
+    "duration" : 685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65e04bca74992ab0",
+  "name" : "Find Pet by id",
+  "time" : {
+    "start" : 1647514403746,
+    "stop" : 1647514403835,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f6fda1e83bdfe74",
+  "name" : "Logout",
+  "time" : {
+    "start" : 1647514412938,
+    "stop" : 1647514413622,
+    "duration" : 684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "576c9afb34f4756b",
+  "name" : "Empty fields validation",
+  "time" : {
+    "start" : 1647514411651,
+    "stop" : 1647514412292,
+    "duration" : 641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "526b913f1bae1d84",
+  "name" : "Wrong credentials validation",
+  "time" : {
+    "start" : 1647514407656,
+    "stop" : 1647514407976,
+    "duration" : 320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59a348aaf0c04c3f",
+  "name" : "Delete Pet by id",
+  "time" : {
+    "start" : 1647514403885,
+    "stop" : 1647514403914,
+    "duration" : 29
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a7ba7cbd84832f6",
+  "name" : "Empty fields validation",
+  "time" : {
+    "start" : 1647514407363,
+    "stop" : 1647514407655,
+    "duration" : 292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52c862a789dd401",
+  "name" : "Valid login",
+  "time" : {
+    "start" : 1647514406649,
+    "stop" : 1647514407363,
+    "duration" : 714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf6e9cb83e42ca6e",
+  "name" : "Valid login",
+  "time" : {
+    "start" : 1647514415369,
+    "stop" : 1647514419405,
+    "duration" : 4036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

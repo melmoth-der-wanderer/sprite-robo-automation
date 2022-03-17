@@ -1,0 +1,302 @@
+{
+  "firefox ui.playground.spec.js Login UI tests Empty fields validation" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "576c9afb34f4756b",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/576c9afb34f4756b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514411651,
+        "stop" : 1647514412292,
+        "duration" : 641
+      }
+    } ]
+  },
+  "firefox ui.playground.spec.js Login UI tests Valid login" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bdf1b377bd21a396",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/bdf1b377bd21a396",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514409572,
+        "stop" : 1647514411651,
+        "duration" : 2079
+      }
+    } ]
+  },
+  "webkit ui.playground.spec.js Login UI tests Valid login" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf6e9cb83e42ca6e",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/cf6e9cb83e42ca6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514415369,
+        "stop" : 1647514419405,
+        "duration" : 4036
+      }
+    } ]
+  },
+  "chromium ui.playground.spec.js Login UI tests Valid login" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52c862a789dd401",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/52c862a789dd401",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514406649,
+        "stop" : 1647514407363,
+        "duration" : 714
+      }
+    } ]
+  },
+  " api.petStore.spec.js Pet store API tests Delete Pet by id" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59a348aaf0c04c3f",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/59a348aaf0c04c3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514403885,
+        "stop" : 1647514403914,
+        "duration" : 29
+      }
+    } ]
+  },
+  "firefox ui.playground.spec.js Login UI tests Logout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f6fda1e83bdfe74",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/2f6fda1e83bdfe74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514412938,
+        "stop" : 1647514413622,
+        "duration" : 684
+      }
+    } ]
+  },
+  " api.petStore.spec.js Pet store API tests Update existing pet" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5192e55cbc696685",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/5192e55cbc696685",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514403835,
+        "stop" : 1647514403885,
+        "duration" : 50
+      }
+    } ]
+  },
+  "chromium ui.playground.spec.js Login UI tests Logout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe179084b473930",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/fe179084b473930",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514407975,
+        "stop" : 1647514408321,
+        "duration" : 346
+      }
+    } ]
+  },
+  "webkit ui.playground.spec.js Login UI tests Logout" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42d9ff245b50476f",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/42d9ff245b50476f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514420806,
+        "stop" : 1647514421476,
+        "duration" : 670
+      }
+    } ]
+  },
+  "chromium ui.playground.spec.js Login UI tests Empty fields validation" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a7ba7cbd84832f6",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/8a7ba7cbd84832f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514407363,
+        "stop" : 1647514407655,
+        "duration" : 292
+      }
+    } ]
+  },
+  "webkit ui.playground.spec.js Login UI tests Empty fields validation" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dde3de82809c2cf0",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/dde3de82809c2cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514419406,
+        "stop" : 1647514420122,
+        "duration" : 716
+      }
+    } ]
+  },
+  " api.petStore.spec.js Pet store API tests Find Pet by id" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65e04bca74992ab0",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/65e04bca74992ab0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514403746,
+        "stop" : 1647514403835,
+        "duration" : 89
+      }
+    } ]
+  },
+  "webkit ui.playground.spec.js Login UI tests Wrong credentials validation" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8be6051788f0a7b",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/d8be6051788f0a7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514420121,
+        "stop" : 1647514420806,
+        "duration" : 685
+      }
+    } ]
+  },
+  "chromium ui.playground.spec.js Login UI tests Wrong credentials validation" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "526b913f1bae1d84",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/526b913f1bae1d84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514407656,
+        "stop" : 1647514407976,
+        "duration" : 320
+      }
+    } ]
+  },
+  "firefox ui.playground.spec.js Login UI tests Wrong credentials validation" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5161a92e70920570",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/5161a92e70920570",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647514412292,
+        "stop" : 1647514412937,
+        "duration" : 645
+      }
+    } ]
+  }
+}
