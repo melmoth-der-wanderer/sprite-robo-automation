@@ -1,0 +1,248 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "API tests",
+    "children" : [ {
+      "name" : "api.petStore.spec.js",
+      "children" : [ {
+        "name" : "Pet store API tests",
+        "children" : [ {
+          "name" : "Find Pet by id",
+          "uid" : "be2ca3af798a98cf",
+          "parentUid" : "ecf24eed977abe8e9ab9947f6ba8a1ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520756754,
+            "stop" : 1647520756978,
+            "duration" : 224
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Update existing pet",
+          "uid" : "1e0ae56004146ac8",
+          "parentUid" : "ecf24eed977abe8e9ab9947f6ba8a1ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520756978,
+            "stop" : 1647520757144,
+            "duration" : 166
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Delete Pet by id",
+          "uid" : "f2a78aa68bd5005b",
+          "parentUid" : "ecf24eed977abe8e9ab9947f6ba8a1ca",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520757144,
+            "stop" : 1647520757464,
+            "duration" : 320
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ecf24eed977abe8e9ab9947f6ba8a1ca"
+      } ],
+      "uid" : "316bcb39bfd8a171221c1bb43083fa65"
+    } ],
+    "uid" : "8296116fb5ecdcc50ae710349f189d84"
+  }, {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "ui.playground.spec.js",
+      "children" : [ {
+        "name" : "Login UI tests",
+        "children" : [ {
+          "name" : "Valid login",
+          "uid" : "6c85bc21f8a1737c",
+          "parentUid" : "03cb385ce0958f4b5a514bfe1afe03e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520759845,
+            "stop" : 1647520760538,
+            "duration" : 693
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Empty fields validation",
+          "uid" : "3455b7ca92802ba2",
+          "parentUid" : "03cb385ce0958f4b5a514bfe1afe03e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520760538,
+            "stop" : 1647520760949,
+            "duration" : 411
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Wrong credentials validation",
+          "uid" : "9f79b24f6ee84c82",
+          "parentUid" : "03cb385ce0958f4b5a514bfe1afe03e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520760949,
+            "stop" : 1647520761348,
+            "duration" : 399
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Logout",
+          "uid" : "d1c7e4fa9780b58c",
+          "parentUid" : "03cb385ce0958f4b5a514bfe1afe03e1",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520761348,
+            "stop" : 1647520761801,
+            "duration" : 453
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "03cb385ce0958f4b5a514bfe1afe03e1"
+      } ],
+      "uid" : "f3b4782a228b783c47cde33199654ffc"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  }, {
+    "name" : "firefox",
+    "children" : [ {
+      "name" : "ui.playground.spec.js",
+      "children" : [ {
+        "name" : "Login UI tests",
+        "children" : [ {
+          "name" : "Valid login",
+          "uid" : "dd69cb30f81d9408",
+          "parentUid" : "e15778218a0213a1184927d0e4bfa3df",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520762896,
+            "stop" : 1647520764680,
+            "duration" : 1784
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Empty fields validation",
+          "uid" : "b0365f088474eda6",
+          "parentUid" : "e15778218a0213a1184927d0e4bfa3df",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520764680,
+            "stop" : 1647520765332,
+            "duration" : 652
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Wrong credentials validation",
+          "uid" : "5c9914105cfeb76b",
+          "parentUid" : "e15778218a0213a1184927d0e4bfa3df",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520765332,
+            "stop" : 1647520766019,
+            "duration" : 687
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Logout",
+          "uid" : "97b76ec18dc4e731",
+          "parentUid" : "e15778218a0213a1184927d0e4bfa3df",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520766019,
+            "stop" : 1647520766699,
+            "duration" : 680
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e15778218a0213a1184927d0e4bfa3df"
+      } ],
+      "uid" : "0f9b1ff63fb30be37da356372932b8f0"
+    } ],
+    "uid" : "ed39c131db56604842b18253a0c76267"
+  }, {
+    "name" : "webkit",
+    "children" : [ {
+      "name" : "ui.playground.spec.js",
+      "children" : [ {
+        "name" : "Login UI tests",
+        "children" : [ {
+          "name" : "Valid login",
+          "uid" : "391eeb6de8343273",
+          "parentUid" : "c30a69b02b34e774da843f7bb45583f7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520768224,
+            "stop" : 1647520770229,
+            "duration" : 2005
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Empty fields validation",
+          "uid" : "282d14caea8be5cf",
+          "parentUid" : "c30a69b02b34e774da843f7bb45583f7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520770230,
+            "stop" : 1647520770920,
+            "duration" : 690
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Wrong credentials validation",
+          "uid" : "1b24bb66e287f638",
+          "parentUid" : "c30a69b02b34e774da843f7bb45583f7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520770920,
+            "stop" : 1647520771513,
+            "duration" : 593
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Logout",
+          "uid" : "a15fb50762ead57a",
+          "parentUid" : "c30a69b02b34e774da843f7bb45583f7",
+          "status" : "passed",
+          "time" : {
+            "start" : 1647520771513,
+            "stop" : 1647520772247,
+            "duration" : 734
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c30a69b02b34e774da843f7bb45583f7"
+      } ],
+      "uid" : "477d5960488ee8393db9e5875ab22ca8"
+    } ],
+    "uid" : "44063b3706d66b0d346705a4a77c6704"
+  } ],
+  "name" : "suites"
+}
