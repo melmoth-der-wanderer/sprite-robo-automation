@@ -1,0 +1,275 @@
+{
+  "uid" : "ee3cafa53ad92914",
+  "name" : "Logout",
+  "fullName" : "Logout",
+  "historyId" : "firefox ui.playground.spec.js Login UI tests Logout",
+  "time" : {
+    "start" : 1647520970989,
+    "stop" : 1647520971802,
+    "duration" : 813
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647520970989,
+        "stop" : 1647520971221,
+        "duration" : 232
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1647520971009,
+          "stop" : 1647520971221,
+          "duration" : 212
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Precondition",
+      "time" : {
+        "start" : 1647520971221,
+        "stop" : 1647520971709,
+        "duration" : 488
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "page.goto(/sampleapp)",
+        "time" : {
+          "start" : 1647520971222,
+          "stop" : 1647520971487,
+          "duration" : 265
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "locator.fill([name=\"UserName\"])",
+        "time" : {
+          "start" : 1647520971488,
+          "stop" : 1647520971553,
+          "duration" : 65
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "locator.fill([name=\"Password\"])",
+        "time" : {
+          "start" : 1647520971554,
+          "stop" : 1647520971583,
+          "duration" : 29
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "locator.click([id=\"login\"])",
+        "time" : {
+          "start" : 1647520971584,
+          "stop" : 1647520971690,
+          "duration" : 106
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "expect.toHaveText",
+        "time" : {
+          "start" : 1647520971691,
+          "stop" : 1647520971709,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 5,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "locator.click(//*[@id=\"login\" and text()=\"Log Out\"])",
+      "time" : {
+        "start" : 1647520971709,
+        "stop" : 1647520971779,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toHaveText",
+      "time" : {
+        "start" : 1647520971780,
+        "stop" : 1647520971790,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647520971790,
+        "stop" : 1647520971802,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1647520971792,
+          "stop" : 1647520971802,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 12,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "firefox"
+  }, {
+    "name" : "suite",
+    "value" : "ui.playground.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "Login UI tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "5673ce90d58aa3ff",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/3//#testresult/5673ce90d58aa3ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647520908523,
+          "stop" : 1647520909588,
+          "duration" : 1065
+        }
+      }, {
+        "uid" : "97b76ec18dc4e731",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/2//#testresult/97b76ec18dc4e731",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647520766019,
+          "stop" : 1647520766699,
+          "duration" : 680
+        }
+      }, {
+        "uid" : "2f6fda1e83bdfe74",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/2f6fda1e83bdfe74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647514412938,
+          "stop" : 1647514413622,
+          "duration" : 684
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ee3cafa53ad92914.json",
+  "parameterValues" : [ ]
+}

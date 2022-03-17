@@ -1,0 +1,200 @@
+{
+  "uid" : "65963c24be0d0fd3",
+  "name" : "Update existing pet",
+  "fullName" : "Update existing pet",
+  "historyId" : " api.petStore.spec.js Pet store API tests Update existing pet",
+  "time" : {
+    "start" : 1647520961994,
+    "stop" : 1647520962044,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647520961994,
+        "stop" : 1647520961996,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "apiRequestContext.put(v2/pet)",
+      "time" : {
+        "start" : 1647520961999,
+        "stop" : 1647520962041,
+        "duration" : 42
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toBeTruthy",
+      "time" : {
+        "start" : 1647520962042,
+        "stop" : 1647520962042,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "apiResponse.json",
+      "time" : {
+        "start" : 1647520962043,
+        "stop" : 1647520962043,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toMatchObject",
+      "time" : {
+        "start" : 1647520962044,
+        "stop" : 1647520962044,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647520962044,
+        "stop" : 1647520962045,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "apiRequestContext.dispose",
+        "time" : {
+          "start" : 1647520962044,
+          "stop" : 1647520962044,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "api.petStore.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "Pet store API tests"
+  }, {
+    "name" : "parentSuite",
+    "value" : "API tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "fee2a8324c3428d8",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/3//#testresult/fee2a8324c3428d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647520894955,
+          "stop" : 1647520895189,
+          "duration" : 234
+        }
+      }, {
+        "uid" : "1e0ae56004146ac8",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/2//#testresult/1e0ae56004146ac8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647520756978,
+          "stop" : 1647520757144,
+          "duration" : 166
+        }
+      }, {
+        "uid" : "5192e55cbc696685",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/5192e55cbc696685",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647514403835,
+          "stop" : 1647514403885,
+          "duration" : 50
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "65963c24be0d0fd3.json",
+  "parameterValues" : [ ]
+}

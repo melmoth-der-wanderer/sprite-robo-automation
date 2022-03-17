@@ -1,0 +1,230 @@
+{
+  "uid" : "b8aa28307d820072",
+  "name" : "Wrong credentials validation",
+  "fullName" : "Wrong credentials validation",
+  "historyId" : "firefox ui.playground.spec.js Login UI tests Wrong credentials validation",
+  "time" : {
+    "start" : 1647520970265,
+    "stop" : 1647520970988,
+    "duration" : 723
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647520970265,
+        "stop" : 1647520970480,
+        "duration" : 215
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1647520970279,
+          "stop" : 1647520970480,
+          "duration" : 201
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "page.goto(/sampleapp)",
+      "time" : {
+        "start" : 1647520970481,
+        "stop" : 1647520970795,
+        "duration" : 314
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([name=\"UserName\"])",
+      "time" : {
+        "start" : 1647520970795,
+        "stop" : 1647520970854,
+        "duration" : 59
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([name=\"Password\"])",
+      "time" : {
+        "start" : 1647520970855,
+        "stop" : 1647520970883,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click([id=\"login\"])",
+      "time" : {
+        "start" : 1647520970884,
+        "stop" : 1647520970962,
+        "duration" : 78
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toHaveText",
+      "time" : {
+        "start" : 1647520970962,
+        "stop" : 1647520970975,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647520970975,
+        "stop" : 1647520970989,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1647520970977,
+          "stop" : 1647520970988,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "firefox"
+  }, {
+    "name" : "suite",
+    "value" : "ui.playground.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "Login UI tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "7c32f28fac36d57b",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/3//#testresult/7c32f28fac36d57b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647520907632,
+          "stop" : 1647520908522,
+          "duration" : 890
+        }
+      }, {
+        "uid" : "5c9914105cfeb76b",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/2//#testresult/5c9914105cfeb76b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647520765332,
+          "stop" : 1647520766019,
+          "duration" : 687
+        }
+      }, {
+        "uid" : "5161a92e70920570",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/1//#testresult/5161a92e70920570",
+        "status" : "passed",
+        "time" : {
+          "start" : 1647514412292,
+          "stop" : 1647514412937,
+          "duration" : 645
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b8aa28307d820072.json",
+  "parameterValues" : [ ]
+}

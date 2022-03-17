@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #1998629409",
+  "buildUrl" : "https://github.com/melmoth-der-wanderer/sprite-robo-automation/actions/runs/1998629409",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://melmoth-der-wanderer.github.io/sprite-robo-automation/4/"
+} ]
