@@ -69,7 +69,7 @@ npm run report
 
 ### CI
 
-Have been used Github Actions. Job is running automatically on the `push` action. See details `.github/workflows/playwright.yml`. This job will run full regression test suite in 3 browsers (both UI and API tests). In real life there will be different options to manipulate the numbers of tests, browsers, layouts to provide: Smoke, Acceptance and Regression tasks for different purposes.
+Have been used Github Actions. Job is running automatically on the `push` action. See details `.github/workflows/playwright.yml`. This job will run full regression test suite in 3 browsers (UI tests) and API tests. In real life there will be different options to manipulate the numbers of tests, browsers and layouts. Also it can be useful to provide Smoke, Acceptance and Regression tasks for different purposes.
 
 ---
 
